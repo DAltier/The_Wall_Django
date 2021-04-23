@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+#container {
+  margin-left: 250px;
+  width: 970px;
+  border: 1px solid black;
+  padding: 40px;
+}
+
+
+a {
+  color: black;
+}
+
+.strong{
+  font-weight: 600; 
+}
+
+.comments{
+  width: 90%;
+  margin: 0 auto; 
+}
+
+
+button {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+  padding: 12px 25px;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 5px 10px;
+  display: block;
+}
